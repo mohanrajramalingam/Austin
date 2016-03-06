@@ -7,5 +7,6 @@ public class LoginPage {
 		System.out.println("This is the line added from the branch - mraj");
 		System.out.println("This is the line added from the web");
 		// Changes from Terminal
+		// Changes from WebUI
 	}
 }
