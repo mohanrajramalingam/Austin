@@ -8,5 +8,6 @@ public class LoginPage {
 		System.out.println("This is the line added from the web");
 		System.out.println("Changes to test the merge and upstream");
 		System.out.println("Changes to origin/master and see how it behaves");
+		System.out.println("Final changes from master to check the pull");
 	}
 }
