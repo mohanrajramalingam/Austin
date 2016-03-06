@@ -1,8 +1,6 @@
 package com.apple.pages;
 
 public class LoginPage {
-
-	public static void main(String[] args) {
 		private int id;
 		private String name;
 		
@@ -21,5 +19,4 @@ public class LoginPage {
 		public String getName(String name) {
 			return name;
 		}
-	}
 }
